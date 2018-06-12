@@ -1,0 +1,1 @@
+# Campaigns don't work for Full Stack. 

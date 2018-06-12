@@ -1,0 +1,1 @@
+# Extensions don't work for Full Stack. 
